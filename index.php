@@ -35,9 +35,9 @@
         <div class="col-md-6">
 
             <a href="./books/home.php">
-                <img src="./siteImages/books.jpg" class="img-circle" alt="books" width="400" height="400">
+                <img src="/images/healthforce.png" class="img-circle" alt="books" width="400" height="400">
                 <div class="caption">
-                    <p>Study Time...</p>
+                    <p>Health Services</p>
                 </div>
             </a>
 
@@ -45,9 +45,9 @@
         <div class="col-md-6">
 
             <a href="./movies/home.php">
-                <img src="./siteImages/movies.jpg" class="img-circle" alt="movies" width="400" height="400">
+                <img src="/images/public_services.jpg" class="img-circle" alt="movies" width="400" height="400">
                 <div class="caption">
-                    <p>Movie Time...</p>
+                    <p>Public Services</p>
                 </div>
             </a>
 

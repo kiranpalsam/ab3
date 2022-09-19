@@ -17,17 +17,24 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">My Website</a>
+            <a class="navbar-brand" href="#">Any State</a>
         </div>
         <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
             <li><a href="./books/home.php">Books</a></li>
-            <li><a href="./movies/home.php">Movies</a></li>
+            <li><a href="./movies/home.php">Videos</a></li>
         </ul>
     </div>
 </nav>
 
 <div class="container">
+    $curl_handle=curl_init();
+    curl_setopt($curl_handle,CURLOPT_CONNECTTIMEOUT,2);
+    curl_setopt($curl_handle,CURLOPT_RETURNTRANSFER,1);
+    curl_setopt($curl_handle,CURLOPT_URL,'http://169.254.169.254/latest/meta-data/local-hostname');
+    $hostname = curl_exec($curl_handle);
+    <br>print \"Server = \" . $hostname</br>
+    
     <h2>What should I do??</h2>
     <div class="well well-lg">Thinking...</div>
 

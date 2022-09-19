@@ -38,13 +38,15 @@
     ?>
     
     <h2>What should I do??</h2>
-    <div class="well well-lg">Thinking...</div>
+    <div class="well well-lg">
+    Health and Human Services (HHS) agencies across all levels of government are leveraging AWS for initiatives ranging from the optimization of everyday administrative tasks to delivering a more personalized digital experience for citizens. Whether your focus is on agency modernization, helping to build healthier communities, or transforming payment and care delivery models, AWS provides cost-effective, […]
+    </div>
 
     <div class="row">
         <div class="col-md-6">
 
             <a href="./books/home.php">
-                <img src="/images/healthforce.png" class="img-circle" alt="books" width="400" height="400">
+                <img src="/images/healthforce.png" alt="Health Services" width="450" height="200">
                 <div class="caption">
                     <p>Health Services</p>
                 </div>
@@ -54,7 +56,7 @@
         <div class="col-md-6">
 
             <a href="./movies/home.php">
-                <img src="/images/public_services.jpg" class="img-circle" alt="movies" width="400" height="400">
+                <img src="/images/public_services.jpg" alt="Public Services" width="300" height="200">
                 <div class="caption">
                     <p>Public Services</p>
                 </div>

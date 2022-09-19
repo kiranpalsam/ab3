@@ -21,8 +21,8 @@
         </div>
         <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="./books/home.php">Books</a></li>
-            <li><a href="./movies/home.php">Videos</a></li>
+            <li><a href="./books/home.php">Health Services</a></li>
+            <li><a href="./movies/home.php">Public Services</a></li>
         </ul>
     </div>
 </nav>

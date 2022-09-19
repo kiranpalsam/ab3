@@ -36,7 +36,7 @@
         <ul class="nav navbar-nav">
             <li ><a href="../index.php">Home</a></li>
             <li class="active"><a href="./home.php">Health Services</a></li>
-            <li ><a href="./movies/home.php">Public Services</a></li>
+            <li ><a href="../movies/home.php">Public Services</a></li>
         </ul>
     </div>
 </nav>

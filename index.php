@@ -34,7 +34,7 @@
     curl_setopt($curl_handle,CURLOPT_RETURNTRANSFER,1);
     curl_setopt($curl_handle,CURLOPT_URL,'http://169.254.169.254/latest/meta-data/local-hostname');
     $hostname = curl_exec($curl_handle);
-    <br>print \"Server = \" . $hostname</br>
+    print \"Server = \" . $hostname
     ?>
     
     <h2>What should I do??</h2>

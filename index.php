@@ -22,7 +22,7 @@
         <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
             <li><a href="./books/home.php">Health Services</a></li>
-            <li><a href="./movies/home.php">Public Services</a></li>
+            <li><a href="https://demoab3.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=2t166qkdi1jl8a5sedr7s7gsrk&redirect_uri=https://demoab3.rohan.aws-info.net/movies/home.php">Public Services</a></li>
         </ul>
     </div>
 </nav>
@@ -54,7 +54,7 @@
         </div>
         <div class="col-md-6">
 
-            <a href="./movies/home.php">
+            <a href="https://demoab3.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=2t166qkdi1jl8a5sedr7s7gsrk&redirect_uri=https://demoab3.rohan.aws-info.net/movies/home.php">
                 <img src="/images/public_services.jpg" alt="Public Services" width="300" height="200">
                 <div class="caption">
                     <p>Public Services</p>

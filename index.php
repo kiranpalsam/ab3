@@ -37,7 +37,6 @@
     print "Server = $hostname"
     ?>
     
-    <h2>What should I do??</h2>
     <div class="well well-lg">
     Health and Human Services (HHS) agencies across all levels of government are leveraging AWS for initiatives ranging from the optimization of everyday administrative tasks to delivering a more personalized digital experience for citizens. Whether your focus is on agency modernization, helping to build healthier communities, or transforming payment and care delivery models, AWS provides cost-effective, […]
     </div>

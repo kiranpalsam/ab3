@@ -67,7 +67,6 @@
         <div class="col-md-6">
 
             <a href="./books/book.pdf">
-                <img src="/images/public_services.jpg" alt="Public Services" width="300" height="200">
                 <div class="caption">
                     <p>Show Book from Server</p>
                 </div>
@@ -78,7 +77,6 @@
         <div class="col-md-6">
 
             <a href="/images/book.pdf">
-                <img src="/images/public_services.jpg" alt="Public Services" width="300" height="200">
                 <div class="caption">
                     <p>Show Book from CDN</p>
                 </div>

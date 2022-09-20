@@ -34,7 +34,8 @@
     curl_setopt($curl_handle,CURLOPT_RETURNTRANSFER,1);
     curl_setopt($curl_handle,CURLOPT_URL,'http://169.254.169.254/latest/meta-data/local-hostname');
     $hostname = curl_exec($curl_handle);
-    print "Server = $hostname"
+    print "Server = $hostname"  . "<br>";
+    echo date("l jS \of F Y h:i:s A") . "<br>";    
     ?>
     
     <div class="well well-lg">

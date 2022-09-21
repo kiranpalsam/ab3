@@ -31,7 +31,7 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">My Website</a>
+            <a class="navbar-brand" href="#">Any State</a>
         </div>
         <ul class="nav navbar-nav">
             <li ><a href="../index.php">Home</a></li>
@@ -41,6 +41,16 @@
     </div>
 </nav>
 
+<?php
+    $curl_handle=curl_init();
+    curl_setopt($curl_handle,CURLOPT_CONNECTTIMEOUT,2);
+    curl_setopt($curl_handle,CURLOPT_RETURNTRANSFER,1);
+    curl_setopt($curl_handle,CURLOPT_URL,'http://169.254.169.254/latest/meta-data/local-hostname');
+    $hostname = curl_exec($curl_handle);
+    print "Server = $hostname"  . "<br>";
+    echo date("l jS \of F Y h:i:s A") . "<br>";    
+    ?>
+    
 <?php
 include("./includes/movieDatabase.php");
 include("./functions/functions.php");

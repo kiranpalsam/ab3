@@ -21,8 +21,8 @@
         </div>
         <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="./books/home.php">Health Services</a></li>
-            <li><a href="https://demoab3.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=2t166qkdi1jl8a5sedr7s7gsrk&redirect_uri=https://demoab3.rohan.aws-info.net/movies/home.php">Public Services</a></li>
+            <li><a href="./books/home.php">Books</a></li>
+            <li><a href="https://demoab3.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=2t166qkdi1jl8a5sedr7s7gsrk&redirect_uri=https://demoab3.rohan.aws-info.net/movies/home.php">Movies</a></li>
         </ul>
     </div>
 </nav>
@@ -48,7 +48,7 @@
             <a href="./books/home.php">
                 <img src="/images/healthforce.png" alt="Health Services" width="450" height="200">
                 <div class="caption">
-                    <p>Health Services</p>
+                    <p>Books</p>
                 </div>
             </a>
 
@@ -58,7 +58,7 @@
             <a href="https://demoab3.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=2t166qkdi1jl8a5sedr7s7gsrk&redirect_uri=https://demoab3.rohan.aws-info.net/movies/home.php">
                 <img src="/images/public_services.jpg" alt="Public Services" width="300" height="200">
                 <div class="caption">
-                    <p>Public Services</p>
+                    <p>Movies</p>
                 </div>
             </a>
 
@@ -68,7 +68,7 @@
 
             <a href="./books/book.pdf">
                 <div class="caption">
-                    <p>Show Book from Server</p>
+                    <p>Show Book from Web Server</p>
                 </div>
             </a>
 

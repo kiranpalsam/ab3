@@ -46,9 +46,9 @@
         <div class="col-md-6">
 
             <a href="./books/home.php">
-                <img src="/images/healthforce.png" alt="Health Services" width="450" height="200">
+                <img src="/images/healthforce.jpeg" alt="Health Services" width="450" height="200">
                 <div class="caption">
-                    <p>Books</p>
+                    
                 </div>
             </a>
 
@@ -58,12 +58,13 @@
             <a href="https://demoab3.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=2t166qkdi1jl8a5sedr7s7gsrk&redirect_uri=https://ab3demo.kiran.aws-info.net/movies/home.php">
                 <img src="/images/public_services.jpg" alt="Public Services" width="300" height="200">
                 <div class="caption">
-                    <p>Movies</p>
+                    
                 </div>
             </a>
 
         </div>
-        
+        <BR></BR>
+        <BR></BR>
         <div class="col-md-6">
 
             <a href="./books/book.pdf">

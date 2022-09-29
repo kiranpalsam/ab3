@@ -64,8 +64,8 @@
             
 
         </div>
-        <BR></BR>
-        <BR></BR>
+        <BR>&nbsp;</BR>
+        <BR>&nbsp;</BR>
         <div class="col-md-6">
 
             <a href="./books/book.pdf">

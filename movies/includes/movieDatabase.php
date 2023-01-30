@@ -1,5 +1,5 @@
 <?php
-$servername = "ab3lampstack-mysqldatabase-5rsm43fqoi23.c7oxqnztd8tr.us-east-1.rds.amazonaws.com";
+$servername = "dr-demo-stack-nv-mysqldatabase-gfah1ci01eoe.cjdkk9pyawgb.us-east-1.rds.amazonaws.com";
 $username = "ab3user";
 $password = "password123";
 $dbname = "moviedb";
